@@ -1,2 +1,2 @@
 # Color-Identification
-Implement an image color detector which identifies all the colors in an  image.
+Implements an image color detector which identifies all the colors in an  image.
